@@ -12,6 +12,7 @@ const Category = () => {
         </Link>
         <Link href={"/"}>
           <Image src={"/Frame 39694.png"} alt="cat1" width={100} height={90} />
+          <p></p>
         </Link>
         <Link href={"/"}>
           <Image src={"/Frame 39696.png"} alt="cat1" width={90} height={90} />
